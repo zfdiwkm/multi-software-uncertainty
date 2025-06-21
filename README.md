@@ -8,9 +8,6 @@ Individual implementations and results for each segmentation tool:
 - **`HIPPOSEG/`** - CMIC HippoSeg segmentation tool (modified for probabilistic output)
 - **`FASTSURFER/`** - FastSurfer deep learning neuroimaging pipeline (modified for probabilistic output)
 
-- **`ASHS/`** - Automatic Segmentation of Hippocampal Subfields implementation
-- **`FREESURFER/`** - FreeSurfer cortical reconstruction and segmentation
-
 ## Software Modifications
 
 ### HippoSeg
